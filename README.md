@@ -1,4 +1,4 @@
-## Welcome fortnite gamers
+## Welcome Fellow Programmers
 
 This GitHub is where our code is stored. There are tutorials online to keep up to date on how it works
 
